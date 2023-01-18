@@ -12,7 +12,7 @@
 ## IMPORTANTE
 La base de datos se denomina "bd02vet" está creada mysql phpmyadmin
 
-Se debe edita el .env y nombrar la base de datos
+Se debe renombrar el .env_example y dejar solo .env y nombrar la base de datos
 
 Para la migración
 php artisan migrate
